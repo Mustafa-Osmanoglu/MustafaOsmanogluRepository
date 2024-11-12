@@ -39,6 +39,6 @@ This continues if multiple 'else if' blocks are used.
 */
 
 /*
-JavaScript for Developers and Automation Testers. Learn JavaScript for Cypress, WebDriverIO and Other Automation Tools, 14 th course notes... similar codes from that lesson.
+JavaScript for Developers and Automation Testers. Learn JavaScript for Cypress, WebDriverIO and Other Automation Tools, 14 th course notes. Similar codes from that lesson.
 
 */
